@@ -14,6 +14,5 @@ Después de inicializar un repositorio, se crea un nuevo subdirectorio oculto ll
 
 **Solución**
 
-'''
 > git init
-'''
+
